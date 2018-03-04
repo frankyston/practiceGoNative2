@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
     marginTop: metrics.baseMargin,
     alignItems: 'center',
     justifyContent: 'center',
+    marginHorizontal: 5,
     maxWidth: (metrics.screenWidth - 60) / 2,
   },
 
